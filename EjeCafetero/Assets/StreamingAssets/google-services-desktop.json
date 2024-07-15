@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "321447695314",
+    "firebase_url": "https://seam-data-game-default-rtdb.firebaseio.com",
+    "project_id": "seam-data-game",
+    "storage_bucket": "seam-data-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321447695314:android:c17ce5b66054e251faee0b",
+        "android_client_info": {
+          "package_name": "com.AgencyCIC.ExperienciaEjeCafetero"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFQl_PhuF_TAwhRXKti65YUdEVkGtyYPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
