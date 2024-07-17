@@ -426,7 +426,7 @@
       "url": "https://registry.npmjs.org"
     },
     "io.extendreality.tilia.unityui": {
-      "version": "file:C:/Users/devteam/Downloads/Tilia.UnityUI-master/Tilia.UnityUI-master",
+      "version": "file:C:/Users/Escan/Downloads/Tilia.UnityUI-master/Tilia.UnityUI-master",
       "depth": 0,
       "source": "local",
       "dependencies": {
